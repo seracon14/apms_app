@@ -1,0 +1,521 @@
+TAPMS
+v7
+r0
+t328538253.825967
+cCheck dependencies
+cCpResource build/Release-iphoneos/APMS.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/Info.plist" APMS-Info.plist
+cCompileXIB "/Users/sergiocontreras/Documents/Iphone Programs/APMS/MainWindow.xib"
+cCompileXIB "/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.xib"
+cProcessPCH /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-gchtsemctovqstgpozozafbwzjlc/APMS_Prefix.pch.gch APMS_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-hlaoyqezqddioqajjoyfhtugvmhj/APMS_Prefix.pch.gch APMS_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/APMS.momd" "/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld"
+cCompileC build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/main.o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/APMSAppDelegate.o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/APMSAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/CamViewController.o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/Event2.o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld/Event2.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/main.o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/APMSAppDelegate.o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/APMSAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/CamViewController.o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/APMS" normal armv6
+cCompileC build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/Event2.o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld/Event2.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/APMS" normal armv7
+cProcessProductPackaging "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/1AA777CF-1223-4D63-8B3D-6CCDD74D9B6D.mobileprovision" "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/embedded.mobileprovision"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS.xcent"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D7401890000000000000110
+t1299448201
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+c000000004D4F6A4700000000000001A7
+t1297050183
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004D54D2640000000000303FF0
+t1297404516
+s3162096
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004D54D243000000000000046B
+t1297404483
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004D5DE7A400000000000001D0
+t1297999780
+s464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreMotion.framework/Headers/CoreMotion.h
+c000000004D5DE7AF00000000000001CB
+t1297999791
+s459
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/Availability.h
+c000000004D4F74C20000000000001B19
+t1297052866
+s6937
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld
+c000000004DE4DA1100000000000000CC
+t1306843665
+s204
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld/Event2.h
+c000000004D4687FC00000000000003D6
+t1296467964
+s982
+i<CoreData/CoreData.h>
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld/Event2.m
+c000000004D4687FC00000000000001F6
+t1296467964
+s502
+i"Event2.h"
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS_Prefix.pch
+c000000004DE4CB9C000000000000015C
+t1306839964
+s348
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/APMSAppDelegate.h
+c000000004DE4DF0200000000000001CA
+t1306844930
+s458
+i<UIKit/UIKit.h>
+i"CamViewController.h"
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/APMSAppDelegate.m
+c000000004DE4CE900000000000000BFC
+t1306840720
+s3068
+i"APMSAppDelegate.h"
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.h
+c000000004DE4DEFD0000000000000AF7
+t1306844925
+s2807
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<CoreMotion/CoreMotion.h>
+i<CoreData/CoreData.h>
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.m
+c000000004DE4DF9C0000000000006C77
+t1306845084
+s27767
+i"CamViewController.h"
+i"Event2.h"
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.xib
+c000000004DE4DA72000000000000A553
+t1306843762
+s42323
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/MainWindow.xib
+c000000004DE4CB9C00000000000021B3
+t1306839964
+s8627
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS.xcent
+t1306845453
+s414
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/APMS
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/APMS.LinkFileList
+c000000004DE4E1050000000000000216
+t1306845445
+s534
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/APMSAppDelegate.o
+t1306845451
+s56336
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/CamViewController.o
+t1306845453
+s111848
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/Event2.o
+t1306845451
+s5900
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/main.o
+t1306845450
+s6540
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/APMS
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/APMS.LinkFileList
+c000000004DE4E1050000000000000216
+t1306845445
+s534
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/APMSAppDelegate.o
+t1306845451
+s56348
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/CamViewController.o
+t1306845453
+s111404
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/Event2.o
+t1306845453
+s5900
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/main.o
+t1306845451
+s6520
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app.dSYM
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/APMS
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/APMS.momd
+t1306845451
+s136
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/CamViewController.nib
+t1306845448
+s5965
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/Info.plist
+t1306845445
+s827
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/MainWindow.nib
+t1306845447
+s1528
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/PkgInfo
+t1306845445
+s8
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/ResourceRules.plist
+t1306845445
+s485
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/embedded.mobileprovision
+t1306845453
+s7293
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/main.m
+c000000004DE4CB9C000000000000016A
+t1306839964
+s362
+i<UIKit/UIKit.h>
+
+N/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/1AA777CF-1223-4D63-8B3D-6CCDD74D9B6D.mobileprovision
+c000000004D9B233F0000000000001C7D
+t1302012735
+s7293
+
+N/var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-gchtsemctovqstgpozozafbwzjlc/APMS_Prefix.pch.gch
+t1306845450
+s10533464
+
+N/var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-hlaoyqezqddioqajjoyfhtugvmhj/APMS_Prefix.pch.gch
+t1306845450
+s10988120
+
+NAPMS-Info.plist
+c000000004DE4CB9C000000000000038D
+t1306839964
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328538245#328538245#0(0"0(0#1#0"8640362432#0"0#
+
+CCodeSign "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app"
+r0
+
+CCompileC build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/APMSAppDelegate.o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/APMSAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s328538250.949716
+e328538251.265421
+r1
+xCompileC
+xbuild/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/APMSAppDelegate.o
+x/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/APMSAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/APMSAppDelegate.m328538250#328538251#0(0"0(0#0#79"/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/APMSAppDelegate.m8640940416#1923"    cd "/Users/sergiocontreras/Documents/Iphone Programs/APMS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/DerivedSources/armv6" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-gchtsemctovqstgpozozafbwzjlc/APMS_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/APMSAppDelegate.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/APMSAppDelegate.o"0#
+
+CCompileC build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/CamViewController.o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s328538251.010680
+e328538253.067961
+r1
+xCompileC
+xbuild/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/CamViewController.o
+x/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.m328538251#328538253#0(0"0(0#0#81"/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.m8635383168#1927"    cd "/Users/sergiocontreras/Documents/Iphone Programs/APMS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/DerivedSources/armv6" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-gchtsemctovqstgpozozafbwzjlc/APMS_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/CamViewController.o"0#
+
+CCompileC build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/Event2.o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld/Event2.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s328538251.265629
+e328538251.378526
+r1
+xCompileC
+xbuild/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/Event2.o
+x/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld/Event2.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld/Event2.m328538251#328538251#0(0"0(0#0#80"/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld/Event2.m8606602720#1915"    cd "/Users/sergiocontreras/Documents/Iphone Programs/APMS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/DerivedSources/armv6" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-gchtsemctovqstgpozozafbwzjlc/APMS_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld/Event2.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/Event2.o"0#
+
+CCompileC build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/main.o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s328538250.708000
+e328538250.949319
+r1
+xCompileC
+xbuild/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/main.o
+x/Users/sergiocontreras/Documents/Iphone Programs/APMS/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/sergiocontreras/Documents/Iphone Programs/APMS/main.m328538250#328538251#0(0"0(0#0#60"/Users/sergiocontreras/Documents/Iphone Programs/APMS/main.m8655161056#1893"    cd "/Users/sergiocontreras/Documents/Iphone Programs/APMS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/DerivedSources/armv6" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-gchtsemctovqstgpozozafbwzjlc/APMS_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/APMS/main.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/main.o"0#
+
+CCompileC build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/APMSAppDelegate.o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/APMSAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s328538251.521355
+e328538251.793567
+r1
+xCompileC
+xbuild/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/APMSAppDelegate.o
+x/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/APMSAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/APMSAppDelegate.m328538251#328538251#0(0"0(0#0#79"/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/APMSAppDelegate.m8640234816#1923"    cd "/Users/sergiocontreras/Documents/Iphone Programs/APMS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/DerivedSources/armv7" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-hlaoyqezqddioqajjoyfhtugvmhj/APMS_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/APMSAppDelegate.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/APMSAppDelegate.o"0#
+
+CCompileC build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/CamViewController.o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s328538251.794562
+e328538253.691005
+r1
+xCompileC
+xbuild/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/CamViewController.o
+x/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.m328538251#328538253#0(0"0(0#0#81"/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.m8606191904#1927"    cd "/Users/sergiocontreras/Documents/Iphone Programs/APMS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/DerivedSources/armv7" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-hlaoyqezqddioqajjoyfhtugvmhj/APMS_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/CamViewController.o"0#
+
+CCompileC build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/Event2.o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld/Event2.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s328538253.207509
+e328538253.352667
+r1
+xCompileC
+xbuild/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/Event2.o
+x/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld/Event2.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld/Event2.m328538253#328538253#0(0"0(0#0#80"/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld/Event2.m8645779296#1915"    cd "/Users/sergiocontreras/Documents/Iphone Programs/APMS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/DerivedSources/armv7" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-hlaoyqezqddioqajjoyfhtugvmhj/APMS_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld/Event2.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/Event2.o"0#
+
+CCompileC build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/main.o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s328538251.378747
+e328538251.520501
+r1
+xCompileC
+xbuild/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/main.o
+x/Users/sergiocontreras/Documents/Iphone Programs/APMS/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/sergiocontreras/Documents/Iphone Programs/APMS/main.m328538251#328538251#0(0"0(0#0#60"/Users/sergiocontreras/Documents/Iphone Programs/APMS/main.m8665691168#1893"    cd "/Users/sergiocontreras/Documents/Iphone Programs/APMS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/DerivedSources/armv7" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-hlaoyqezqddioqajjoyfhtugvmhj/APMS_Prefix.pch -c "/Users/sergiocontreras/Documents/Iphone Programs/APMS/main.m" -o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.xib"
+s328538245.774148
+e328538248.100839
+r1
+xCompileXIB
+x/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.xib
+lSLF07#2@40"CompileXIB Classes/CamViewController.xib328538245#328538248#0(0"0(0#0#83"/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.xib8656545888#614"    cd "/Users/sergiocontreras/Documents/Iphone Programs/APMS"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/CamViewController.nib" "/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB "/Users/sergiocontreras/Documents/Iphone Programs/APMS/MainWindow.xib"
+s328538245.771803
+e328538248.024757
+r1
+xCompileXIB
+x/Users/sergiocontreras/Documents/Iphone Programs/APMS/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib328538245#328538248#0(0"0(0#0#68"/Users/sergiocontreras/Documents/Iphone Programs/APMS/MainWindow.xib8653737888#592"    cd "/Users/sergiocontreras/Documents/Iphone Programs/APMS"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/MainWindow.nib" "/Users/sergiocontreras/Documents/Iphone Programs/APMS/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCpResource build/Release-iphoneos/APMS.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+s328538245.706407
+e328538245.770915
+r1
+xCpResource
+xbuild/Release-iphoneos/APMS.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist328538245#328538245#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist8631236864#548"    cd "/Users/sergiocontreras/Documents/Iphone Programs/APMS"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app"0#
+
+CCreateUniversalBinary "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/APMS" normal "armv6 armv7"
+r0
+
+CDataModelVersionCompile "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/APMS.momd" "/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld"
+s328538250.692799
+e328538251.010460
+r1
+xDataModelVersionCompile
+x/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/APMS.momd
+x/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld
+lSLF07#2@83"DataModelVersionCompile build/Release-iphoneos/APMS.app/APMS.momd APMS.xcdatamodeld328538250#328538251#0(0"0(0#0#71"/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld8657169376#387"    cd "/Users/sergiocontreras/Documents/Iphone Programs/APMS"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc "/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld" "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/APMS.momd"0#
+
+CGenerateDSYMFile "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app.dSYM" "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/APMS"
+r0
+
+CLd "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/APMS" normal armv6
+s328538253.068456
+e328538253.207301
+r0
+xLd
+x/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/APMS
+xnormal
+xarmv6
+oUndefined symbols for architecture armv6:
+o  "_OBJC_CLASS_$_CMMotionManager", referenced from:
+o      objc-class-ref in CamViewController.o
+o  "_OBJC_CLASS_$_CLLocationManager", referenced from:
+o      objc-class-ref in CamViewController.o
+old: symbol(s) not found for architecture armv6
+ocollect2: ld returned 1 exit status
+lSLF07#2@129"Link /Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/APMS328538253#328538253#0(319"Undefined symbols for architecture armv6:  "_OBJC_CLASS_$_CMMotionManager", referenced from:      objc-class-ref in CamViewController.o  "_OBJC_CLASS_$_CLLocationManager", referenced from:      objc-class-ref in CamViewController.old: symbol(s) not found for architecture armv6collect2: ld returned 1 exit status6(4@49""_OBJC_CLASS_$_CMMotionManager", referenced from:328538253#42#52#0(6@0"328538253#0#0#0#0#0"0(13@37"Objc-class-ref in CamViewController.o328538253#94#44#0(6@0"328538253#0#0#0#0#0"0(4@51""_OBJC_CLASS_$_CLLocationManager", referenced from:328538253#138#54#0(6@0"328538253#0#0#0#0#0"0(13@37"Objc-class-ref in CamViewController.o328538253#192#44#0(6@0"328538253#0#0#0#0#0"0(13@42"Symbol(s) not found for architecture armv6328538253#236#47#0(6@0"328538253#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status328538253#283#36#0(6@0"328538253#0#0#0#0#0"0(0#0#0"8653531552#954"    cd "/Users/sergiocontreras/Documents/Iphone Programs/APMS"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk "-L/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos" "-F/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos" -filelist "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/APMS.LinkFileList" -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv6/APMS"1#
+
+CLd "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/APMS" normal armv7
+s328538253.691195
+e328538253.788504
+r0
+xLd
+x/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/APMS
+xnormal
+xarmv7
+oUndefined symbols for architecture armv7:
+o  "_OBJC_CLASS_$_CMMotionManager", referenced from:
+o      objc-class-ref in CamViewController.o
+o  "_OBJC_CLASS_$_CLLocationManager", referenced from:
+o      objc-class-ref in CamViewController.o
+old: symbol(s) not found for architecture armv7
+ocollect2: ld returned 1 exit status
+lSLF07#2@129"Link /Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/APMS328538253#328538253#0(319"Undefined symbols for architecture armv7:  "_OBJC_CLASS_$_CMMotionManager", referenced from:      objc-class-ref in CamViewController.o  "_OBJC_CLASS_$_CLLocationManager", referenced from:      objc-class-ref in CamViewController.old: symbol(s) not found for architecture armv7collect2: ld returned 1 exit status6(4@49""_OBJC_CLASS_$_CMMotionManager", referenced from:328538253#42#52#0(6@0"328538253#0#0#0#0#0"0(13@37"Objc-class-ref in CamViewController.o328538253#94#44#0(6@0"328538253#0#0#0#0#0"0(4@51""_OBJC_CLASS_$_CLLocationManager", referenced from:328538253#138#54#0(6@0"328538253#0#0#0#0#0"0(13@37"Objc-class-ref in CamViewController.o328538253#192#44#0(6@0"328538253#0#0#0#0#0"0(13@42"Symbol(s) not found for architecture armv7328538253#236#47#0(6@0"328538253#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status328538253#283#36#0(6@0"328538253#0#0#0#0#0"0(0#0#0"8665632128#954"    cd "/Users/sergiocontreras/Documents/Iphone Programs/APMS"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk "-L/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos" "-F/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos" -filelist "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/APMS.LinkFileList" -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/Objects-normal/armv7/APMS"1#
+
+CProcessInfoPlistFile "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/Info.plist" APMS-Info.plist
+s328538245.711063
+e328538245.771592
+r1
+xProcessInfoPlistFile
+x/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/Info.plist
+xAPMS-Info.plist
+lSLF07#2@23"Process APMS-Info.plist328538245#328538245#0(0"0(0#0#69"/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS-Info.plist8629646016#624"    cd "/Users/sergiocontreras/Documents/Iphone Programs/APMS"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility APMS-Info.plist -genpkginfo "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/ResourceRules.plist" -o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/Info.plist"0#
+
+CProcessPCH /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-gchtsemctovqstgpozozafbwzjlc/APMS_Prefix.pch.gch APMS_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s328538248.101112
+e328538250.541207
+r1
+xProcessPCH
+x/var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-gchtsemctovqstgpozozafbwzjlc/APMS_Prefix.pch.gch
+xAPMS_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile APMS_Prefix.pch328538248#328538250#0(0"0(0#0#69"/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS_Prefix.pch7594869363256022016#1775"    cd "/Users/sergiocontreras/Documents/Iphone Programs/APMS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/DerivedSources/armv6" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -c "/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS_Prefix.pch" -o /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-gchtsemctovqstgpozozafbwzjlc/APMS_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-hlaoyqezqddioqajjoyfhtugvmhj/APMS_Prefix.pch.gch APMS_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s328538248.104267
+e328538250.692561
+r1
+xProcessPCH
+x/var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-hlaoyqezqddioqajjoyfhtugvmhj/APMS_Prefix.pch.gch
+xAPMS_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile APMS_Prefix.pch328538248#328538250#0(0"0(0#0#69"/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS_Prefix.pch8647891104#1775"    cd "/Users/sergiocontreras/Documents/Iphone Programs/APMS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-generated-files.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS-project-headers.hmap" "-F/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/include" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/DerivedSources/armv7" "-I/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -c "/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS_Prefix.pch" -o /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-hlaoyqezqddioqajjoyfhtugvmhj/APMS_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/1AA777CF-1223-4D63-8B3D-6CCDD74D9B6D.mobileprovision" "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/embedded.mobileprovision"
+s328538253.788717
+e328538253.798692
+r1
+xProcessProductPackaging
+x/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/1AA777CF-1223-4D63-8B3D-6CCDD74D9B6D.mobileprovision
+x/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/embedded.mobileprovision
+lSLF07#2@201"ProcessProductPackaging "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/1AA777CF-1223-4D63-8B3D-6CCDD74D9B6D.mobileprovision" build/Release-iphoneos/APMS.app/embedded.mobileprovision328538253#328538253#0(0"0(0#0#110"/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/embedded.mobileprovision8645844608#466"    cd "/Users/sergiocontreras/Documents/Iphone Programs/APMS"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/sergiocontreras/Library/MobileDevice/Provisioning Profiles/1AA777CF-1223-4D63-8B3D-6CCDD74D9B6D.mobileprovision" -o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS.xcent"
+s328538253.798860
+e328538253.825835
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+x/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS.xcent
+lSLF07#2@168"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist build/APMS.build/Release-iphoneos/APMS.build/APMS.xcent328538253#328538253#0(0"0(0#0#109"/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS.xcent8631285248#459"    cd "/Users/sergiocontreras/Documents/Iphone Programs/APMS"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist -entitlements -format xml -o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Release-iphoneos/APMS.build/APMS.xcent"0#
+
+CTouch "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app"
+r0
+
+CValidate "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Release-iphoneos/APMS.app"
+r0
+

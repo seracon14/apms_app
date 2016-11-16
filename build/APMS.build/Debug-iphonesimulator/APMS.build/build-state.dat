@@ -1,0 +1,216 @@
+TAPMS
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004D54D02800000000001D6EC0
+t1297403944
+s1928896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004D54D01A000000000000046B
+t1297403930
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004D54DEB600000000000001D0
+t1297407670
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreMotion.framework/Headers/CoreMotion.h
+c000000004D54DEBD00000000000001CB
+t1297407677
+s459
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004D54D0BA00000000000000EB
+t1297404090
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld
+c000000004DE4CB9C0000000000000088
+t1306839964
+s136
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS_Prefix.pch
+c000000004DE4CB9C000000000000015C
+t1306839964
+s348
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/APMSAppDelegate.h
+c000000004DE4CDDA00000000000001E8
+t1306840538
+s488
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"CamViewController.h"
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/APMSAppDelegate.m
+c000000004DE4CE900000000000000BFC
+t1306840720
+s3068
+i"APMSAppDelegate.h"
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.h
+c000000004DE4CFA60000000000000B44
+t1306840998
+s2884
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<CoreMotion/CoreMotion.h>
+i<CoreData/CoreData.h>
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.m
+c000000004DE4D94C0000000000006CFC
+t1306843468
+s27900
+i"CamViewController.h"
+i"MobileCoreServices/MobileCoreServices.h"
+i"Event2.h"
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.xib
+c000000004D7F44B9000000000000A56F
+t1300186297
+s42351
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/MainWindow.xib
+c000000004DE4CB9C00000000000021B3
+t1306839964
+s8627
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Debug-iphonesimulator/APMS.build/Objects-normal/i386/APMS.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Debug-iphonesimulator/APMS.build/Objects-normal/i386/APMSAppDelegate.o
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Debug-iphonesimulator/APMS.build/Objects-normal/i386/CamViewController.o
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/APMS.build/Debug-iphonesimulator/APMS.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Debug-iphonesimulator/APMS.app
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Debug-iphonesimulator/APMS.app.dSYM
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Debug-iphonesimulator/APMS.app/APMS
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Debug-iphonesimulator/APMS.app/APMS.momd
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Debug-iphonesimulator/APMS.app/CamViewController.nib
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Debug-iphonesimulator/APMS.app/Info.plist
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Debug-iphonesimulator/APMS.app/MainWindow.nib
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Debug-iphonesimulator/APMS.app/PkgInfo
+t2
+s0
+
+N/Users/sergiocontreras/Documents/Iphone Programs/APMS/main.m
+c000000004DE4CB9C000000000000016A
+t1306839964
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-ecyeizncnpnajmetjeqzftxtnlwt/APMS_Prefix.pch.gch
+t2
+s0
+
+NAPMS-Info.plist
+c000000004DE4CB9C000000000000038D
+t1306839964
+s909
+
+CCompileC build/APMS.build/Debug-iphonesimulator/APMS.build/Objects-normal/i386/APMSAppDelegate.o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/APMSAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/APMS.build/Debug-iphonesimulator/APMS.build/Objects-normal/i386/CamViewController.o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/APMS.build/Debug-iphonesimulator/APMS.build/Objects-normal/i386/main.o "/Users/sergiocontreras/Documents/Iphone Programs/APMS/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/sergiocontreras/Documents/Iphone Programs/APMS/Classes/CamViewController.xib"
+r0
+
+CCompileXIB "/Users/sergiocontreras/Documents/Iphone Programs/APMS/MainWindow.xib"
+r0
+
+CDataModelVersionCompile "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Debug-iphonesimulator/APMS.app/APMS.momd" "/Users/sergiocontreras/Documents/Iphone Programs/APMS/APMS.xcdatamodeld"
+r0
+
+CGenerateDSYMFile "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Debug-iphonesimulator/APMS.app.dSYM" "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Debug-iphonesimulator/APMS.app/APMS"
+r0
+
+CLd "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Debug-iphonesimulator/APMS.app/APMS" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Debug-iphonesimulator/APMS.app/Info.plist" APMS-Info.plist
+r0
+
+CProcessPCH /var/folders/6T/6TmAyptTHEu+LsxcEEUNv++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-ecyeizncnpnajmetjeqzftxtnlwt/APMS_Prefix.pch.gch APMS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/sergiocontreras/Documents/Iphone Programs/APMS/build/Debug-iphonesimulator/APMS.app"
+r0
+

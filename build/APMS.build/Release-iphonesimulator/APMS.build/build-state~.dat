@@ -1,0 +1,261 @@
+TAPMS
+v7
+r0
+t334193864.624347
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app/Info.plist" APMS-Info.plist
+cCompileXIB "/Users/sergiocontreras/Documents/iPhone Progams/APMS/MainWindow.xib"
+cCompileXIB "/Users/sergiocontreras/Documents/iPhone Progams/APMS/Classes/CamViewController.xib"
+cProcessPCH /var/folders/w_/gsqld91j6vz9nghf7ltyrpz80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-ewfvkxogetldesbvlufenyuwenxc/APMS_Prefix.pch.gch APMS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile "/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app/APMS.momd" "/Users/sergiocontreras/Documents/iPhone Progams/APMS/APMS.xcdatamodeld"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004E33FBB80000000000000110
+t1312029624
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004D54D02800000000001D6EC0
+t1297403944
+s1928896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004D54DEBC00000000000778F0
+t1297407676
+s489712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c000000004D54DEC0000000000003B900
+t1297407680
+s243968
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004D54D0BC000000000005C090
+t1297404092
+s376976
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/APMS.xcdatamodeld
+c000000004DE4EAC000000000000000CC
+t1306847936
+s204
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/APMS.xcdatamodeld/Event2.h
+c000000004DE4E97200000000000003D6
+t1306847602
+s982
+i<CoreData/CoreData.h>
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/APMS.xcdatamodeld/Event2.m
+c000000004D4687FC00000000000001F6
+t1296467964
+s502
+i"Event2.h"
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/APMS_Prefix.pch
+c000000004DE4CB9C000000000000015C
+t1306839964
+s348
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/Classes/APMSAppDelegate.h
+c000000004DE4DF0200000000000001CA
+t1306844930
+s458
+i<UIKit/UIKit.h>
+i"CamViewController.h"
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/Classes/APMSAppDelegate.m
+c000000004E0D5AB80000000000000AD1
+t1309498040
+s2769
+i"APMSAppDelegate.h"
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/Classes/CamViewController.h
+c000000004E0B19BC0000000000000BA2
+t1309350332
+s2978
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<CoreMotion/CoreMotion.h>
+i<CoreData/CoreData.h>
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/Classes/CamViewController.m
+c000000004E3278F400000000000079BD
+t1311930612
+s31165
+i"MobileCoreServices/MobileCoreServices.h"
+i"CamViewController.h"
+i"Event2.h"
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/Classes/CamViewController.xib
+c000000004E0B2016000000000000A4B1
+t1309351958
+s42161
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/MainWindow.xib
+c000000004DE4CB9C00000000000021B3
+t1306839964
+s8627
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/APMS.build/Release-iphonesimulator/APMS.build/Objects-normal/i386/APMS.LinkFileList
+c000000004E3B2D48000000000000022A
+t1312501064
+s554
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/APMS.build/Release-iphonesimulator/APMS.build/Objects-normal/i386/APMSAppDelegate.o
+t2
+s0
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/APMS.build/Release-iphonesimulator/APMS.build/Objects-normal/i386/CamViewController.o
+t2
+s0
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/APMS.build/Release-iphonesimulator/APMS.build/Objects-normal/i386/Event2.o
+t2
+s0
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/APMS.build/Release-iphonesimulator/APMS.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app
+t2
+s0
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app.dSYM
+t2
+s0
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app/APMS
+t2
+s0
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app/APMS.momd
+t2
+s0
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app/CamViewController.nib
+t2
+s0
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app/Info.plist
+t1312501064
+s648
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app/MainWindow.nib
+t2
+s0
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app/PkgInfo
+t1312501064
+s8
+
+N/Users/sergiocontreras/Documents/iPhone Progams/APMS/main.m
+c000000004DE4CB9C000000000000016A
+t1306839964
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/w_/gsqld91j6vz9nghf7ltyrpz80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-ewfvkxogetldesbvlufenyuwenxc/APMS_Prefix.pch.gch
+t2
+s0
+
+NAPMS-Info.plist
+c000000004DEF6B320000000000000404
+t1307536178
+s1028
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334193864#334193864#0(0"0(0#1#0"17221028608#0"0#
+
+CCompileC build/APMS.build/Release-iphonesimulator/APMS.build/Objects-normal/i386/APMSAppDelegate.o "/Users/sergiocontreras/Documents/iPhone Progams/APMS/Classes/APMSAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/APMS.build/Release-iphonesimulator/APMS.build/Objects-normal/i386/CamViewController.o "/Users/sergiocontreras/Documents/iPhone Progams/APMS/Classes/CamViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/APMS.build/Release-iphonesimulator/APMS.build/Objects-normal/i386/Event2.o "/Users/sergiocontreras/Documents/iPhone Progams/APMS/APMS.xcdatamodeld/Event2.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/APMS.build/Release-iphonesimulator/APMS.build/Objects-normal/i386/main.o "/Users/sergiocontreras/Documents/iPhone Progams/APMS/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/sergiocontreras/Documents/iPhone Progams/APMS/Classes/CamViewController.xib"
+s334193864.576899
+e334193864.579065
+r0
+xCompileXIB
+x/Users/sergiocontreras/Documents/iPhone Progams/APMS/Classes/CamViewController.xib
+oerror: can't exec '/Developer/usr/bin/ibtool' (Permission denied)
+lSLF07#2@40"CompileXIB Classes/CamViewController.xib334193864#334193864#0(125"error: can't exec '/Developer/usr/bin/ibtool' (Permission denied)Command /Developer/usr/bin/ibtool failed with exit code 711(4@58"Command /Developer/usr/bin/ibtool failed with exit code 71334193864#18446744073709551615#0#0(1@0"0(0#0#82"/Users/sergiocontreras/Documents/iPhone Progams/APMS/Classes/CamViewController.xib4693606032#639"    cd "/Users/sergiocontreras/Documents/iPhone Progams/APMS"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app/CamViewController.nib" "/Users/sergiocontreras/Documents/iPhone Progams/APMS/Classes/CamViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk71#
+
+CCompileXIB "/Users/sergiocontreras/Documents/iPhone Progams/APMS/MainWindow.xib"
+s334193864.575618
+e334193864.578662
+r0
+xCompileXIB
+x/Users/sergiocontreras/Documents/iPhone Progams/APMS/MainWindow.xib
+oerror: can't exec '/Developer/usr/bin/ibtool' (Permission denied)
+lSLF07#2@25"CompileXIB MainWindow.xib334193864#334193864#0(125"error: can't exec '/Developer/usr/bin/ibtool' (Permission denied)Command /Developer/usr/bin/ibtool failed with exit code 711(4@58"Command /Developer/usr/bin/ibtool failed with exit code 71334193864#18446744073709551615#0#0(1@0"0(0#0#67"/Users/sergiocontreras/Documents/iPhone Progams/APMS/MainWindow.xib4693606032#617"    cd "/Users/sergiocontreras/Documents/iPhone Progams/APMS"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app/MainWindow.nib" "/Users/sergiocontreras/Documents/iPhone Progams/APMS/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk71#
+
+CDataModelVersionCompile "/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app/APMS.momd" "/Users/sergiocontreras/Documents/iPhone Progams/APMS/APMS.xcdatamodeld"
+s334193864.594935
+e334193864.624273
+r0
+xDataModelVersionCompile
+x/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app/APMS.momd
+x/Users/sergiocontreras/Documents/iPhone Progams/APMS/APMS.xcdatamodeld
+oerror: can't exec '/Developer/usr/bin/momc' (Permission denied)
+lSLF07#2@90"DataModelVersionCompile build/Release-iphonesimulator/APMS.app/APMS.momd APMS.xcdatamodeld334193864#334193864#0(121"error: can't exec '/Developer/usr/bin/momc' (Permission denied)Command /Developer/usr/bin/momc failed with exit code 711(4@56"Command /Developer/usr/bin/momc failed with exit code 71334193864#18446744073709551615#0#0(1@0"0(0#0#70"/Users/sergiocontreras/Documents/iPhone Progams/APMS/APMS.xcdatamodeld4693606032#427"    cd "/Users/sergiocontreras/Documents/iPhone Progams/APMS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 "/Users/sergiocontreras/Documents/iPhone Progams/APMS/APMS.xcdatamodeld" "/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app/APMS.momd"71#
+
+CGenerateDSYMFile "/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app.dSYM" "/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app/APMS"
+r0
+
+CLd "/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app/APMS" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app/Info.plist" APMS-Info.plist
+s334193864.540978
+e334193864.575540
+r1
+xProcessInfoPlistFile
+x/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app/Info.plist
+xAPMS-Info.plist
+lSLF07#2@23"Process APMS-Info.plist334193864#334193864#0(0"0(0#0#68"/Users/sergiocontreras/Documents/iPhone Progams/APMS/APMS-Info.plist17222448128#522"    cd "/Users/sergiocontreras/Documents/iPhone Progams/APMS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility APMS-Info.plist -genpkginfo "/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app/Info.plist"0#
+
+CProcessPCH /var/folders/w_/gsqld91j6vz9nghf7ltyrpz80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-ewfvkxogetldesbvlufenyuwenxc/APMS_Prefix.pch.gch APMS_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s334193864.579326
+e334193864.594861
+r0
+xProcessPCH
+x/var/folders/w_/gsqld91j6vz9nghf7ltyrpz80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-ewfvkxogetldesbvlufenyuwenxc/APMS_Prefix.pch.gch
+xAPMS_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oerror: can't exec '/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2' (Permission denied)
+lSLF07#2@26"Precompile APMS_Prefix.pch334193864#334193864#0(112"error: can't exec '/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2' (Permission denied)1(4@104"Can't exec '/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2' (Permission denied)334193864#0#112#0(6@0"334193864#0#0#0#0#0"0(0#0#68"/Users/sergiocontreras/Documents/iPhone Progams/APMS/APMS_Prefix.pch4693606032#1962"    cd "/Users/sergiocontreras/Documents/iPhone Progams/APMS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/APMS.build/Release-iphonesimulator/APMS.build/APMS-generated-files.hmap" "-I/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/APMS.build/Release-iphonesimulator/APMS.build/APMS-own-target-headers.hmap" "-I/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/APMS.build/Release-iphonesimulator/APMS.build/APMS-all-target-headers.hmap" -iquote "/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/APMS.build/Release-iphonesimulator/APMS.build/APMS-project-headers.hmap" "-F/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator" "-I/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/include" "-I/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/APMS.build/Release-iphonesimulator/APMS.build/DerivedSources/i386" "-I/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/APMS.build/Release-iphonesimulator/APMS.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -c "/Users/sergiocontreras/Documents/iPhone Progams/APMS/APMS_Prefix.pch" -o /var/folders/w_/gsqld91j6vz9nghf7ltyrpz80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/APMS_Prefix-ewfvkxogetldesbvlufenyuwenxc/APMS_Prefix.pch.gch71#
+
+CTouch "/Users/sergiocontreras/Documents/iPhone Progams/APMS/build/Release-iphonesimulator/APMS.app"
+r0
+
